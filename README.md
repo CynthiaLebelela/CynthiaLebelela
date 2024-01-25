@@ -5,10 +5,10 @@ I'm a passionate and aspiring technology enthusiast with a keen interest in syst
 
 ### 💻 Tech Stack
 - 🌐 Programming Languages: Java, Java Script
-- 🛢️ Databases: SQL Database,
-- Data Visualization: PowerBI, Tableau
+- 🛢️ Databases: SQL Database,MongoDB
+-   Data Visualization: PowerBI, Tableau
 - 🚀 Frameworks: Spring Boot
-- 🔧 Tools: Git, GitHub, VS Code
+- 🔧 Tools: Git, GitHub, VS Code, IntelliJ and NetBeans IDE
 
 ### 🌱 Learning Journey
 
