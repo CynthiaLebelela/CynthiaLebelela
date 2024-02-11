@@ -4,8 +4,8 @@
 I'm a passionate and aspiring technology enthusiast with a keen interest in system development and data analysis. Currently embarking on a journey to explore the realms of software development and data science, I find joy in solving complex problems and transforming data into meaningful insights.
 
 ### 💻 Tech Stack
-- 🌐 Programming Languages: Java, Java Script
-- 🛢️ Databases: SQL Database,MongoDB
+- 🌐 Programming Languages: Java, JavaScript
+- 🛢️ Databases: SQL,MySQL,MongoDB
 -   Data Visualization: PowerBI, Tableau
 - 🚀 Frameworks: Spring Boot
 - 🔧 Tools: Git, GitHub, VS Code, IntelliJ and NetBeans IDE
