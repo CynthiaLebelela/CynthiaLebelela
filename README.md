@@ -9,6 +9,7 @@ I'm a passionate and aspiring technology enthusiast with a keen interest in syst
 -   Data Visualization: PowerBI, Tableau
 - 🚀 Frameworks: Spring Boot
 - 🔧 Tools: Git, GitHub, VS Code, IntelliJ and NetBeans IDE
+- Design: Figma
 
 ### 🌱 Learning Journey
 
@@ -16,5 +17,6 @@ I'm on a continuous learning journey, eager to absorb knowledge and stay updated
 
 ### 🤝 Let's Connect!
 
+If you want to make your product easier and more enjoyable for people to use, come join me! Whether it's making cool designs or coming up with new ideas, I'm here to help. Let's work together to grow and succeed!
 
-Feel free to explore my repositories, and let's collaborate on exciting projects. Open to learning, sharing, and connecting with fellow developers and data enthusiasts. Let's code and analyze data together! 🚀
+Feel free to check out my projects and let's team up on exciting stuff. I'm open to learning, sharing, and connecting with other developers and data enthusiasts. Let's write code and analyze data together! 🚀
