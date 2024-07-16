@@ -6,7 +6,7 @@ I'm an enthusiastic tech lover diving into the worlds of software development an
 ###💻 Tech Stack:
 🌐 Languages: Java, JavaScript
 🛢️ Databases: SQL, MySQL, MongoDB
-📊 Data Viz: PowerBI, Tableau
+📊 Data Viz: PowerBI
 🚀 Frameworks: Spring Boot
 🔧 Tools: Git, GitHub, VS Code, IntelliJ, NetBeans IDE
 🎨 Design: Figma
